@@ -1,2 +1,8 @@
 # Hello-world-
-Welcome to Java webpage design 
+public class Hello world
+{
+public static void main (string []args)
+{
+system.out.print/n("Hello world!");
+}
+}
